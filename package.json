@@ -1,6 +1,6 @@
 {
   "name": "@dependabot-fixtures/npm-transitive-dependency-with-more-versions",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "a test fixture for testing transitive dependency updates",
   "main": "index.js",
   "scripts": {
